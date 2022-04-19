@@ -4,7 +4,7 @@ Hello!
 
 - 👋 I’m Saloni
 - 👀 I’m Student| Learner| Developer
-- 🏫 Pursuing 3rd year in Information Science and Engineering from BMS College Of Engineering
+- 🏫 Pursuing 4th year in Information Science and Engineering from BMS College Of Engineering
 - 🌱 I’m currently learning MERN stack
 
 
