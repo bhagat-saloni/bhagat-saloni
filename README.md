@@ -7,9 +7,10 @@ MS CS @ USC | Software Engineer | Full-stack | GenAI
 - **Cancellable Biometrics** (Deep Learning) — [https://github.com/bhagat-saloni/Cancelable_Biometrics]
 
 ### 🔹 Interests
-- Building scalable backend & frontend systems
-- Applied GenAI and LLM-powered workflows
-- System design and performance
+- Developing scalable backend & frontend systems
+- Experimenting with LLMs to design and prototype intelligent workflows
+- Applying GenAI thoughtfully to improve developer productivity and product capabilities
+- Building performance-aware and reliable system development
 
 ### 🔹 Links
 - 🌐 Portfolio: https://bhagat-saloni.github.io
