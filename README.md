@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I’m Saloni 👋
+MS CS @ USC | Software Engineer | Full-stack | GenAI
 
-<!--
-**bhagat-saloni/bhagat-saloni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔹 Top Projects
+- **Natural Language → SQL** (FastAPI, LLMs, GCP) — [https://github.com/bhagat-saloni/NatLangToSql]
+- **Weenix OS** (C, concurrency, OS internals) — [https://github.com/bhagat-saloni/toy_op_sys]
+- **Cancellable Biometrics** (Deep Learning) — [https://github.com/bhagat-saloni/Cancelable_Biometrics]
 
-Here are some ideas to get you started:
+### 🔹 Interests
+- Building scalable backend & frontend systems
+- Applied GenAI and LLM-powered workflows
+- System design and performance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Links
+- 🌐 Portfolio: https://bhagat-saloni.github.io
+- 💼 LinkedIn: https://www.linkedin.com/in/fnu-saloni-1b0212210/
+
